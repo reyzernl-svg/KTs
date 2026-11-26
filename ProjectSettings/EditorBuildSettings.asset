@@ -8,11 +8,14 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MainMenu.unity
     guid: 621f4e3b654308b4e9fccd34ded1441d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameScene.unity
     guid: 3ee4b2ea7b822f646bbaa6a56df78841
+  - enabled: 1
+    path: Assets/Scenes/Rigidbody2D.unity
+    guid: 01543bfbd4356c74abe3ad49db73b36f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
